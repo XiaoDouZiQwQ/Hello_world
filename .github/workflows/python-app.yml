@@ -25,4 +25,4 @@ jobs:
         python-version: "3.10"
     - name: Hello World
       run: |
-       python3 print('Hello World!')
+       python3 print("hello,world!")
